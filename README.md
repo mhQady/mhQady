@@ -1,4 +1,4 @@
-### Hello there 👋 ![HI](https://tenor.com/blOVi.gif)
+### Hello there 👋 <span class="waving-hand">👋</span>
 
 👽 I'm self taught backend developer who is passionate about coding. <br />
 ⚒️ I use daily: `.php`, `.js`, `.html`, `.vue`
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```html
+<link rel="stylesheet" type="text/css" href="style.css">

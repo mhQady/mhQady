@@ -1,4 +1,6 @@
+css: style.css
 ### Hello there 👋 <span class="waving-hand">👋</span>
+
 <style>
   .waving-hand {
   animation-name: wave-animation;

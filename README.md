@@ -1,11 +1,15 @@
-### Hello There 🙋🏽‍♂️
+<h3 align="center">Hello There 🙋🏽‍♂️</h3>
+
+<p align="center">I'm <b>Mohamed</b>, a self taught backend developer who is passionate about coding.</p>
+
+---
+* ⚒️ I use daily: `.php`, `.js`, `.html`, `.vue`
+
+---
+#### 🌱 My latest projects
 
 
-👽 I'm self taught backend developer who is passionate about coding. <br />
-⚒️ I use daily: `.php`, `.js`, `.html`, `.vue`
 <!--
-**mhQady/mhQady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello there 👋 ![HI](https://tenor.com/blOVi.gif)
 
+👽 I'm self taught backend developer who is passionate about coding. <br />
+⚒️ I use daily: `.php`, `.js`, `.html`, `.vue`
 <!--
 **mhQady/mhQady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

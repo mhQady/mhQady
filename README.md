@@ -2,12 +2,13 @@
 
 <p align="center">I'm <b>Mohamed</b>, a self taught backend developer who is passionate about coding.</p>
 
+<!--
 ---
 * ⚒️ I use daily: `.php`, `.js`, `.html`, `.vue`
 
 ---
 #### 🌱 My latest projects
-
+-->
 
 <!--
 Here are some ideas to get you started:

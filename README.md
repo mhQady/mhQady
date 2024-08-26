@@ -1,6 +1,5 @@
-<h3 align="center">Hello There</h3> ![](https://github.com/mhQady/mhQady/blob/main/fire.gif)
-
-<p align="center">I'm <b>Mohamed</b>, a self taught backend developer who is passionate about coding.</p>
+### <div align="center" style="display: flex; justify-content: center; align-items: center;"> <img src="https://github.com/mhQady/mhQady/blob/main/fire.gif" width="150" /> &nbsp; Hello There &nbsp; <img src="https://github.com/mhQady/mhQady/blob/main/fire.gif" width="150" /></div>
+<p align="center">I'm <b>Mohamed</b>, a self taught software developer who is passionate about coding.</p>
 
 <!--
 ---

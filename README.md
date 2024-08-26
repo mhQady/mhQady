@@ -1,4 +1,4 @@
-<h3 align="center">Hello There 🙋🏽‍♂️</h3>
+<h3 align="center">Hello There</h3> ![](https://github.com/mhQady/mhQady/blob/main/fire.gif)
 
 <p align="center">I'm <b>Mohamed</b>, a self taught backend developer who is passionate about coding.</p>
 

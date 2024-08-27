@@ -1,13 +1,6 @@
-## <div align="center" style="display: flex; justify-content: center; align-items: center;"> 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture> &nbsp; Hello There &nbsp; 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture></div>
-<p align="center">I'm <b>Mohamed</b>, a self taught software developer who is passionate about coding.</p>
+## <div align="center"> <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> &nbsp; Hello There &nbsp; <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture></div>
+
+<p align="center">I'm <b>Mohamed AlQady</b>, a self taught software developer who is passionate about coding.</p>
 
 <!--
 ---

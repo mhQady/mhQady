@@ -27,11 +27,9 @@
 - **Agile Methodologies**: Comfortable working in Agile environments and collaborating with cross-functional teams to deliver high-quality code.
 
 <h2> <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
-</picture>Technologies & Tools
+  <img src="https://raw.githubusercontent.com/mhQady/mhQady/main/megaphone.gif" alt="⚙" width="32" height="32">
+</picture>Get in touch!
 </h2>
 
-## 📫 Get in touch!
 - **Email**: mh.qady@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mh-qady/)

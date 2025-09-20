@@ -10,7 +10,7 @@
 
 - **Languages**: PHP, JavaScript, HTML, CSS
 - **Frameworks**: Laravel, Vue.js
-- **Databases**: MySQL
+- **Databases**: MySQL, PostgreSQL
 - **Tools**: Docker, Git, Composer, NPM, Lando, ELK Stack
 - **APIs**: Restful APIs, Payment Gateways, Saudi Governmental APIs
 
